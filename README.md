@@ -39,7 +39,43 @@ Predicted salary for BC Data Scientist (2023-10): $82,100
 ```
 
 ---
+## 🔑 Dashboard Pages
 
+### Page 1: Overview
+- KPI Cards: Total Jobs, Average Salary, Max Salary, Min Salary
+- Map: Jobs by Province
+- Bar Chart: Top 10 Job Titles by Count
+- Line Chart: Jobs over Time
+
+### Page 2: Salary Analysis
+- Column Chart: Avg Salary by Province
+- Line Chart: Avg Salary Trend by Month
+- Table: Province, Job Title, Avg Salary
+
+### Page 3: Trends & Forecast
+- Line Chart: Job Count Trend with 6-month Forecast
+- Clustered Bar Chart: Job Count by Province over Years
+
+### Page 4: Drilldown / Interactive
+- Slicers: Province, Job Title, Year
+- Dynamic KPIs and visuals responding to selections
+
+---
+
+## 🔎 Key Insights
+- Ontario and British Columbia have the highest job postings.
+- Quebec reports the highest average salaries (~$81K).
+- Data Analyst and Data Scientist remain top in-demand roles.
+- Forecast suggests steady job posting growth for the next 6 months.
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file and open in **Power BI Desktop**.
+2. Use slicers to explore data by province, job title, and year.
+3. View dynamic KPI changes and forecast trends.
+
+---
 ## 🚀 How to Run
 1. Install dependencies  
 ```bash
